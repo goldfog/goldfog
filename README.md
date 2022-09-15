@@ -1,10 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" alt="">
-</div>
-
- <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117e84083151b505f6f88d698af4a46a8e914ac053&rid=giphy.gif&ct=g" alt="">
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-goldfog&style=flat-square&color=blueviolet" alt=""/>
